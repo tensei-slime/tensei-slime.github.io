@@ -60,7 +60,6 @@ nav{
 .nav-container .links{
     display:flex;
     margin-left: 80px;
-    flex-direction: row;
 }
 
 .nav-container .links a{
