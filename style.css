@@ -45,7 +45,6 @@ nav{
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    align-items: center;
 }
 
 .logo{
@@ -58,17 +57,6 @@ nav{
     color: #87CEEB;
     text-shadow: 0 0 10px #87CEEB;
 }
-.hamburg,
-.cancel{
-    cursor: pointer;
-    position: absolute;
-    right: 15px;
-    top: 10px;
-    color: white;
-    opacity: 0;
-    pointer-events: none;
-    font-size: clamp(2.5rem,0.5rem + 5vw,3rem);
- }
 .nav-container .links{
     display:flex;
     margin-left: 80px;
